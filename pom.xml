@@ -24,7 +24,7 @@
           <artifactId>maven-war-plugin</artifactId>
           <version>3.2.2</version>
         </plugin>
-      </plugin>
+      </plugins>
       </pluginManagement>
   </build>
 </project>
